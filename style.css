@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-position:center top;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #5d4954;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.logo{
+    color: rgb(226, 226, 226);
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+}
+.nav-links li{
+    list-style: none;
+}
+.nav-links a{
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+    
+}
+.main {   
+    flex: 70%;
+    padding: 100px;
+    font-size: 19px;
+  }
+ 
