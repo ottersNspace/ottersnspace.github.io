@@ -628,8 +628,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     .page-content-12 {
       text-align: left; }
       .page-content-12 h1 {
-        font-size: 90px;
-        line-height: 80px;
+        font-size: 100px;
+        line-height: 90px;
         font-weight: 300;
         font-family: 'Poppins', sans-serif;
         color: #ffffff;
